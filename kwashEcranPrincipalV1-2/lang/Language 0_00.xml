@@ -52,8 +52,8 @@
 		<standard Guid="bc2f7531-325f-4837-a438-142278acc20d" textID="48"><![CDATA[Hors gel, reglages]]></standard>
 		<standard Guid="e0ca9723-8283-47d4-82c2-bafd6f3a649d" textID="49"><![CDATA[Dosages]]></standard>
 		<standard Guid="9e3cf2c2-c285-4be2-9fb8-dbb268806115" textID="50"><![CDATA[Station]]></standard>
-		<standard Guid="8b5e4e22-152c-4f0c-b532-57d83e007c7a" textID="51"><![CDATA[Eau]]></standard>
-		<standard Guid="1463228e-8505-4f2a-bd1a-b7da2de47b88" textID="52"><![CDATA[Eau osmosée]]></standard>
+		<standard Guid="8b5e4e22-152c-4f0c-b532-57d83e007c7a" textID="51"><![CDATA[Manque d'eau]]></standard>
+		<standard Guid="1463228e-8505-4f2a-bd1a-b7da2de47b88" textID="52"><![CDATA[Manque d'eau osmosée]]></standard>
 		<standard Guid="33135300-f025-4627-b85a-37123acfac13" textID="53"><![CDATA[Hors gel]]></standard>
 		<standard Guid="ebebe4c3-45ec-44ea-85ac-08e8174e7165" textID="54"><![CDATA[1-I01 ~ jantes]]></standard>
 		<standard Guid="c39a06ab-838c-405b-81d0-1b4fa76c1d8d" textID="55"><![CDATA[1-I02 ~ prélavage]]></standard>
@@ -94,7 +94,7 @@
 		<standard Guid="8e1ba9f0-082e-41d9-8afd-1b19841f37cc" textID="90"><![CDATA[OFF / ON]]></standard>
 		<standard Guid="55a968b2-1b5f-422c-88ad-5bf4c92a4e1e" textID="91"><![CDATA[entrées / sorties]]></standard>
 		<standard Guid="6c3b6876-feff-4997-9080-37195281be63" textID="92"><![CDATA[Opérateur]]></standard>
-		<standard Guid="9b79ea91-c161-40c7-b30e-9d553983d4d5" textID="93"><![CDATA[En cours :]]></standard>
+		<standard Guid="9b79ea91-c161-40c7-b30e-9d553983d4d5" textID="93"><![CDATA[Connecté]]></standard>
 		<standard Guid="1dbaf78c-0671-49f5-9c98-baf602b5d22a" textID="94"><![CDATA[Amorcage pompes doseuses]]></standard>
 		<standard Guid="5b2d95e0-5216-4518-9a70-61de93c5c7e0" textID="95"><![CDATA[Pompe doseuse jantes]]></standard>
 		<standard Guid="cd607e35-2d28-4257-8ea0-939458fc51d9" textID="96"><![CDATA[Pompe doseuse prélavage]]></standard>

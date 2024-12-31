@@ -60,8 +60,8 @@
 			<s ID="48"><![CDATA[Hors gel, reglages]]></s>
 			<s ID="49"><![CDATA[Dosages]]></s>
 			<s ID="50"><![CDATA[Station]]></s>
-			<s ID="51"><![CDATA[Eau]]></s>
-			<s ID="52"><![CDATA[Eau osmosée]]></s>
+			<s ID="51"><![CDATA[Manque d'eau]]></s>
+			<s ID="52"><![CDATA[Manque d'eau osmosée]]></s>
 			<s ID="53"><![CDATA[Hors gel]]></s>
 			<s ID="54"><![CDATA[1-I01 ~ jantes]]></s>
 			<s ID="55"><![CDATA[1-I02 ~ prélavage]]></s>
@@ -102,7 +102,7 @@
 			<s ID="90"><![CDATA[OFF / ON]]></s>
 			<s ID="91"><![CDATA[entrées / sorties]]></s>
 			<s ID="92"><![CDATA[Opérateur]]></s>
-			<s ID="93"><![CDATA[En cours :]]></s>
+			<s ID="93"><![CDATA[Connecté]]></s>
 			<s ID="94"><![CDATA[Amorcage pompes doseuses]]></s>
 			<s ID="95"><![CDATA[Pompe doseuse jantes]]></s>
 			<s ID="96"><![CDATA[Pompe doseuse prélavage]]></s>

@@ -1,5 +1,5 @@
 <SubScreen Guid="0a16fc11-e422-492d-b641-8c88088f23b0" Res="[1024 80]" ScreenColor="[0 255 255 255]" ActiveSet="cfd43269-633e-4f96-80af-1ca1bcfe212e" Name="bandeauBas" No="0" Version="[10.6.0]" DefaultResizeMode="0" DefaultAlignmentForUniformStretch="1">
-  <Checksum Value="72996172" />
+  <Checksum Value="2150204288" />
   <TimeDate Guid="817d49e3-0dde-414a-85dc-52c6c483e3dd" LockedPosition="0" ControlSet="cfd43269-633e-4f96-80af-1ca1bcfe212e" Name="" Anchor="5" FrameStyle="2" DateTimeFomat="DD.MM.YYYY" X_PropType="0" X_Value="900" Y_PropType="0" Y_Value="40" Width_PropType="0" Width_Value="120" Height_PropType="0" Height_Value="30">
     <State Guid="9259734b-271f-4336-9bb8-78966ebd73ca" Name="Text" Version="[1.1.0]">
       <ColorDecorator Guid="06c2da15-5965-4115-99e1-3aa5e30cf489" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
@@ -57,7 +57,6 @@
     </State>
   </ScreenChange>
   <ScreenChange Guid="35673104-7828-40ca-beed-c5cb7503609d" LockedPosition="0" ControlSet="cfd43269-633e-4f96-80af-1ca1bcfe212e" Name="" Anchor="5" Style="0a494d18-96fd-4ce5-9630-27afa9fe9de5" Click="0" FrameStyle="2" Animation="9" X_PropType="0" X_Value="830" Y_PropType="0" Y_Value="10" Width_PropType="0" Width_Value="60" Height_PropType="0" Height_Value="60" TargetScreenData_PropType="0" TargetScreenData_Value="a87fe81b-b6f9-4350-a27a-392734721d77">
-    <Visibility Guid="4a31a6f6-05d6-483d-af1a-0e0c1a9f3c65" Tag="4dba923c-443c-488d-9356-9a66032cfcc7" Invisible="0" />
     <State Guid="56d24aa2-f077-4134-a565-8db5b9a649c8" Name="On" Version="[1.1.0]">
       <BackImageDecorator Guid="f96e0f57-0b90-4e9d-8973-73e9d7b2c109" ID="0" Stretched="0" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="c94751af-3f42-4fc1-91a2-d4ef7d55e10f" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
       <IconImageDecorator Guid="f95443a5-020f-4b02-bb8c-1e1e39a868d2" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="ff6c0050-e5d6-4889-b6e1-d4b1b91685d9" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
