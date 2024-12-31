@@ -1,0 +1,11 @@
+<SubScreen Guid="8dafc81b-0ce8-4497-abd2-697b41abbf7d" Res="[150 400]" ScreenColor="[0 255 255 255]" ActiveSet="f5a02e34-a61b-4f6c-9dea-f341981779dd" Name="Piste1" No="0" Version="[10.6.0]" DefaultResizeMode="0" DefaultAlignmentForUniformStretch="1">
+  <Checksum Value="3793497635" />
+  <Text Guid="ec88e902-4ced-4d5e-8209-0886326dbd64" LockedPosition="0" ControlSet="f5a02e34-a61b-4f6c-9dea-f341981779dd" Name="" Anchor="5" X_PropType="0" X_Value="10" Y_PropType="0" Y_Value="10" Width_PropType="0" Width_Value="130" Height_PropType="0" Height_Value="30">
+    <State Guid="cd226a71-b021-4891-beeb-eceb639361e8" Name="Text" Version="[1.1.0]">
+      <ColorDecorator Guid="ca854c96-af40-4e1b-b213-a2cb7871cbf1" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
+      <TextDecorator Guid="ac6d21b8-b3f2-43de-88b7-a34c8a5f11e8" ID="1" Font="[0,14,0]" Color="[255 233 233 233]" Blink="0" AlignH="1" AlignV="1" Rotation="0" WordBreak="1" MainData_PropType="0" MainData_Value="84e1435a-48b6-4ddd-bd22-e5de2988976c" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
+    </State>
+  </Text>
+  <ControlSet Guid="f5a02e34-a61b-4f6c-9dea-f341981779dd" Name="ControlSet" />
+  <SSPC Guid="86ca236a-f8d4-487d-8f21-063bd7be8094" />
+</SubScreen>

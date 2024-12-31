@@ -1,0 +1,16 @@
+<StandardScreen Guid="346a85be-e345-4ddc-b927-55223035aadb" Res="[1024 600]" ScreenColor="[255 192 192 192]" ActiveSet="56862726-3553-4810-be75-fbdcd5154ea5" Name="alarmes" No="2" Version="[10.6.0]" SaverTime="0" UseScreenSaver="0" UseTouchDisable="0" TouchTime="0" BackgroundScreen="561100d7-339a-4510-95bf-1b945f2ad13d">
+  <Checksum Value="1004447710" />
+  <ControlUserControl Guid="7bf9e5d1-f0c4-4653-aa10-8cb819db929c" LockedPosition="0" ControlSet="56862726-3553-4810-be75-fbdcd5154ea5" Name="" Anchor="5" BackColor="[0 255 255 255]" ResizeMode="0" AlignmentForUniformStretch="1" X_PropType="0" X_Value="0" Y_PropType="0" Y_Value="520" Width_PropType="0" Width_Value="1024" Height_PropType="0" Height_Value="80">
+    <SubScreenEntry Guid="0db389fe-1bf4-454d-9b30-4acae3a3b4f1" SubScreen="0a16fc11-e422-492d-b641-8c88088f23b0" Name="">
+      <SSAC Guid="2be0d32a-5f0b-4e55-b690-ba635dad6ff3" />
+    </SubScreenEntry>
+  </ControlUserControl>
+  <Rectangle Guid="47eb3496-946b-479f-b330-400b5dd1249d" LockedPosition="0" ControlSet="56862726-3553-4810-be75-fbdcd5154ea5" Name="" Anchor="5" LineBlink="0" LineBlinkCondition="0" FillBlink="0" FillBlinkCondition="0" X_PropType="0" X_Value="300" Y_PropType="0" Y_Value="10" Width_PropType="0" Width_Value="420" Height_PropType="0" Height_Value="50" LineWidth_PropType="0" LineWidth_Value="3" LineColor_PropType="0" LineColor_Value="[255 246 44 49]" LineColor_Mode="0" LineColor_SetType="0" LineBlinkTag_PropType="1" Filled_PropType="0" Filled_Value="0" FillColor_PropType="0" FillColor_Value="[255 255 255 255]" FillColor_Mode="0" FillColor_SetType="0" FillBlinkTag_PropType="1" Radius_PropType="0" Radius_Value="20" />
+  <Text Guid="42291257-aae5-4f18-a1d0-2c7adb470df8" LockedPosition="0" ControlSet="56862726-3553-4810-be75-fbdcd5154ea5" Name="" Anchor="5" X_PropType="0" X_Value="300" Y_PropType="0" Y_Value="10" Width_PropType="0" Width_Value="420" Height_PropType="0" Height_Value="50">
+    <State Guid="28a071e3-c662-4977-bf5e-2d0d1b706006" Name="Text" Version="[1.1.0]">
+      <ColorDecorator Guid="5c88bed1-df57-4e81-be9c-ca976d4cb344" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
+      <TextDecorator Guid="4aece1f7-b835-4953-ba33-ee0978ee6e8e" ID="1" Font="[0,20,0]" Color="[255 233 233 233]" Blink="0" AlignH="1" AlignV="1" Rotation="0" WordBreak="1" MainData_PropType="0" MainData_Value="faa4f3ad-da90-4906-b513-dffbab8f1259" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
+    </State>
+  </Text>
+  <ControlSet Guid="56862726-3553-4810-be75-fbdcd5154ea5" Name="ControlSet" />
+</StandardScreen>

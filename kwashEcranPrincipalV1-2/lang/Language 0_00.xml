@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languageData Version="galileoNG">
+	<texts>
+		<standard Guid="565bc557-866c-4fd0-a624-48b38c1d169b" textID="0"><![CDATA[Page principale]]></standard>
+		<standard Guid="7a5d2154-ae58-4210-aa34-bdcc5c585869" textID="1"><![CDATA[Paramètres]]></standard>
+		<standard Guid="faa4f3ad-da90-4906-b513-dffbab8f1259" textID="2"><![CDATA[Alarmes]]></standard>
+		<standard Guid="84e1435a-48b6-4ddd-bd22-e5de2988976c" textID="3"><![CDATA[Piste 1]]></standard>
+		<standard Guid="25af4f9a-be15-42a2-9e4f-23dca1fff8d9" textID="4"><![CDATA[Piste 2]]></standard>
+		<standard Guid="c5af9c7d-c34e-49e6-8f88-edc10d255711" textID="5"><![CDATA[Piste 3]]></standard>
+		<standard Guid="d9e02782-229d-477b-a152-d5976d2bc8e7" textID="6"><![CDATA[h]]></standard>
+		<standard Guid="0e4be098-cbfb-4f3d-8b19-6f0c40cd5b62" textID="7"><![CDATA[Nb heures :]]></standard>
+		<standard Guid="85dab916-5cc7-4291-8c7d-9867ddcd3aa1" textID="8"><![CDATA[Piste]]></standard>
+		<standard Guid="3036bd91-7a77-4148-8666-4ac90d4555a5" textID="9"><![CDATA[Acquitter]]></standard>
+		<standard Guid="1b7d58f8-513a-4381-a1f0-a5e6a28d0c8c" textID="10"><![CDATA[Acquitter toutes]]></standard>
+		<standard Guid="a14854ab-25ae-4264-9ebe-22be5e841808" textID="11"><![CDATA[Trier]]></standard>
+		<standard Guid="30cadcc1-05d3-4ea0-a896-fba49914f6cb" textID="12"><![CDATA[Sauvegarde]]></standard>
+		<standard Guid="d1f3a2f4-6786-47e3-a855-67f7e7a435f0" textID="13"><![CDATA[Chargement]]></standard>
+		<standard Guid="d6172d79-c2fc-4b21-a877-53a632590867" textID="14"><![CDATA[Masquer]]></standard>
+		<standard Guid="31efac5d-e4c1-49e9-aef0-1d2ce9e82c80" textID="15"><![CDATA[Proprietaire : 1234]]></standard>
+		<standard Guid="bfefe958-95f6-422a-955c-8a0c28e1df09" textID="16"><![CDATA[Mots de passe :]]></standard>
+		<standard Guid="2e68f38f-e0c3-4255-b91c-4963dcc0c718" textID="17"><![CDATA[Service : 5678]]></standard>
+		<standard Guid="3e11434b-5ec4-4910-a9f9-809bbcce4bff" textID="18"><![CDATA[Utilisateur]]></standard>
+		<standard Guid="d606d081-65c1-455a-b41a-b9abc5abbe41" textID="19"><![CDATA[1234]]></standard>
+		<standard Guid="86f06826-404b-456d-a05e-3e03d361a285" textID="20"><![CDATA[Service]]></standard>
+		<standard Guid="5577e624-3532-4794-b8f3-baf92ef04673" textID="21"><![CDATA[5678]]></standard>
+		<standard Guid="994abbbd-d1e8-425d-8f95-a25f832b291b" textID="22"><![CDATA[Lavage jantes]]></standard>
+		<standard Guid="1c65db7b-5635-48cc-94d4-8e822c812149" textID="23"><![CDATA[Prélavage]]></standard>
+		<standard Guid="eaa48e9e-7d82-4323-9c93-f7b540d84847" textID="24"><![CDATA[Canon mousse]]></standard>
+		<standard Guid="10da7c9a-2728-4c5c-9c28-f0fe1d5ab692" textID="25"><![CDATA[Lavage HP]]></standard>
+		<standard Guid="52dd4196-fc28-44ec-aae6-7184ad0a23b7" textID="26"><![CDATA[Brosse mousse]]></standard>
+		<standard Guid="7e5d24e5-5d12-4c4e-ba4b-2ad70e71279b" textID="27"><![CDATA[Rinçage]]></standard>
+		<standard Guid="4c138ac2-17d1-44c7-a8e8-25463cb268fa" textID="28"><![CDATA[Canon polish]]></standard>
+		<standard Guid="7d12fec6-1b4e-42f5-a723-26b462bd1f8b" textID="29"><![CDATA[Cire]]></standard>
+		<standard Guid="36a67361-2a43-4e9a-9f7e-00f829b90b06" textID="30"><![CDATA[Finition]]></standard>
+		<standard Guid="cd0f46b7-4f5e-44b0-bc9b-3472a7a0a3b6" textID="31"><![CDATA[Programme en cours :]]></standard>
+		<standard Guid="916e6972-1003-4c2b-935e-2b13951611a0" textID="32"><![CDATA[Arrêt]]></standard>
+		<standard Guid="35501f11-aac6-4b69-90e5-695a6584353d" textID="33"><![CDATA[Piste 4]]></standard>
+		<standard Guid="f87f589d-8a6a-428c-aa54-58e26ed4949f" textID="34"><![CDATA[Piste 5]]></standard>
+		<standard Guid="ccfd34ce-c5b0-4802-ab90-f44efb2d0225" textID="35"><![CDATA[Compteur horaire :]]></standard>
+		<standard Guid="a111fc91-f71d-49ea-8883-5447615f8382" textID="36"><![CDATA[:]]></standard>
+		<standard Guid="dbf01ab6-f2e1-447b-8164-b94af546be87" textID="37"><![CDATA[Compteurs]]></standard>
+		<standard Guid="321d029f-fcb6-4a4d-8fbf-262ffc4005e3" textID="38"><![CDATA[Proprietaire]]></standard>
+		<standard Guid="a7d75991-0aba-47cc-8d5f-4db11cb824ad" textID="39"><![CDATA[Déconnecter]]></standard>
+		<standard Guid="a272e75d-d7ce-43d2-8c85-8a416ff83bae" textID="40"><![CDATA[Contacts]]></standard>
+		<standard Guid="d6273f44-0e01-467c-96eb-b1bdd8c56b01" textID="41"><![CDATA[Téléphone :]]></standard>
+		<standard Guid="b621d286-fcbc-4a5a-a4e1-0b9112223e7c" textID="42"><![CDATA[Mail :]]></standard>
+		<standard Guid="581035d8-498d-4b2d-8086-dc859f6a7b30" textID="43"><![CDATA[Adresse :]]></standard>
+		<standard Guid="61444fbd-f7df-41bf-9f3d-3de3c44c7167" textID="44"><![CDATA[Compteur total :]]></standard>
+		<standard Guid="9b8eeca4-d945-4d82-b200-7d53df2a75dd" textID="45"><![CDATA[Hors gel, auto/manu]]></standard>
+		<standard Guid="1e6eecdb-fbee-49f0-849a-5a6163285ca2" textID="46"><![CDATA[Eclairage, auto/manu]]></standard>
+		<standard Guid="88ea1cfb-203e-4a9e-8a2d-dd79954d7b97" textID="47"><![CDATA[Eclairage, horaires]]></standard>
+		<standard Guid="bc2f7531-325f-4837-a438-142278acc20d" textID="48"><![CDATA[Hors gel, reglages]]></standard>
+		<standard Guid="e0ca9723-8283-47d4-82c2-bafd6f3a649d" textID="49"><![CDATA[Dosages]]></standard>
+		<standard Guid="9e3cf2c2-c285-4be2-9fb8-dbb268806115" textID="50"><![CDATA[Station]]></standard>
+		<standard Guid="8b5e4e22-152c-4f0c-b532-57d83e007c7a" textID="51"><![CDATA[Eau]]></standard>
+		<standard Guid="1463228e-8505-4f2a-bd1a-b7da2de47b88" textID="52"><![CDATA[Eau osmosée]]></standard>
+		<standard Guid="33135300-f025-4627-b85a-37123acfac13" textID="53"><![CDATA[Hors gel]]></standard>
+		<standard Guid="ebebe4c3-45ec-44ea-85ac-08e8174e7165" textID="54"><![CDATA[1-I01 ~ jantes]]></standard>
+		<standard Guid="c39a06ab-838c-405b-81d0-1b4fa76c1d8d" textID="55"><![CDATA[1-I02 ~ prélavage]]></standard>
+		<standard Guid="9bb9086f-9f2e-473f-b2a1-68af64531ef1" textID="56"><![CDATA[1-I03 ~ canon mousse]]></standard>
+		<standard Guid="c41c13d3-8963-41b5-b080-00d51bf54fdf" textID="57"><![CDATA[1-I04 ~ lavage HP]]></standard>
+		<standard Guid="e88fb294-dfce-4473-91a1-f0ff3b20f1a3" textID="58"><![CDATA[1-I05 ~ brosse mousse]]></standard>
+		<standard Guid="c6a8cb8a-4ee0-4588-919f-a2daa430920b" textID="59"><![CDATA[1-I06 ~ rincage]]></standard>
+		<standard Guid="e5f9a6e9-ca12-40d0-81fd-b5fd0054e8df" textID="60"><![CDATA[1-I07 ~ polish]]></standard>
+		<standard Guid="01f61818-5d35-410c-adff-31a8a4722ab5" textID="61"><![CDATA[1-I08 ~ cire]]></standard>
+		<standard Guid="0f6e98bb-91fc-4701-9285-dda2811b0944" textID="62"><![CDATA[2-I01 ~ finition]]></standard>
+		<standard Guid="db3b74fc-f0f0-4656-aaf6-0a6f4a57b3f1" textID="63"><![CDATA[Entrées / sorties]]></standard>
+		<standard Guid="9046368e-731e-4fb2-a3f0-c9603835d998" textID="64"><![CDATA[3-I01 ~ déf. moteur pompe HP]]></standard>
+		<standard Guid="927cd22b-eb0f-4254-bd7f-2f4d3dc67622" textID="65"><![CDATA[3-I02 ~ déf. eau]]></standard>
+		<standard Guid="b573bb33-c89b-46de-b682-f3cf6cc477d5" textID="66"><![CDATA[3-I01 ~ déf. eau osmosée]]></standard>
+		<standard Guid="fbdce8ed-46f2-4e23-99b0-cbd52c040324" textID="67"><![CDATA[3-I01 ~ hors gel]]></standard>
+		<standard Guid="90a74a13-3c9a-48f1-97ff-ceb943b4e72b" textID="68"><![CDATA[3-I01 ~ micro switch regul HP]]></standard>
+		<standard Guid="d360f0f8-ebae-4ef4-a6b1-ef324a99e639" textID="69"><![CDATA[EV BP eau chaude ~ 1-Q01]]></standard>
+		<standard Guid="f55515df-7327-4c02-8f79-124c429080ea" textID="70"><![CDATA[EV BP eau chaude cire ~ 1-Q02]]></standard>
+		<standard Guid="55c5c3dc-c7af-4588-8456-9e40df640ff4" textID="71"><![CDATA[EV BP eau froide rincage ~ 1-Q03]]></standard>
+		<standard Guid="7c039d52-9ba6-450b-8d9f-104fa19e8fcb" textID="72"><![CDATA[EV BP eau osmosée ~ 1-Q04]]></standard>
+		<standard Guid="7488944f-697b-4f6e-a060-4981bb1b91e2" textID="73"><![CDATA[Vitesse variateur]]></standard>
+		<standard Guid="b1ace547-6233-42a5-966c-1c37cdfa6272" textID="74"><![CDATA[EV HP lavage ~ 2-Q01]]></standard>
+		<standard Guid="0bba2366-775f-4219-97e4-587fc5fdd382" textID="75"><![CDATA[EV HP canon mousse ~ 2-Q02]]></standard>
+		<standard Guid="10ba6bab-cf41-4139-8a70-41601e27cd06" textID="76"><![CDATA[EV HP prelavage ~ 2-Q03]]></standard>
+		<standard Guid="88d269a4-0791-4071-b8f3-c63df64716bb" textID="77"><![CDATA[EV HP polish ~ 2-Q04]]></standard>
+		<standard Guid="7257e303-5922-4a2e-a4a1-b84d095ed0af" textID="78"><![CDATA[EV BP brosse ~ 2-Q05]]></standard>
+		<standard Guid="05d2e3eb-41d3-483f-9203-979683b21337" textID="79"><![CDATA[EV air prelavage ~ 2-Q06]]></standard>
+		<standard Guid="aaf3b3e4-44e2-42e3-a526-7ecf6e2af6ab" textID="80"><![CDATA[EV air polish ~ 2-Q07]]></standard>
+		<standard Guid="a57dc184-ed00-413c-a25f-d66f72f4911e" textID="81"><![CDATA[EV BP jante ~ 2-Q08]]></standard>
+		<standard Guid="0ad517a0-7f48-4505-9fc1-e3ed60ac0a39" textID="82"><![CDATA[Pompe doseuse jante ~ 3-Q01]]></standard>
+		<standard Guid="5ca5a2c0-55fa-4131-bc78-cc8349a3ac11" textID="83"><![CDATA[Pompe doseuse prelavage ~ 3-Q02]]></standard>
+		<standard Guid="8f10288e-fe73-4d57-9b9f-0a3ccc314404" textID="84"><![CDATA[Pompe doseuse shampoing ~ 3-Q03]]></standard>
+		<standard Guid="1a736330-3798-4d9a-a70f-830786797932" textID="85"><![CDATA[Pompe doseuse brosse ~ 3-Q04]]></standard>
+		<standard Guid="04140967-5d52-4c98-8229-a485b1b62287" textID="86"><![CDATA[Pompe doseuse cire ~ 3-Q05]]></standard>
+		<standard Guid="97da055f-c3c7-4e3c-8ffa-1008f348829e" textID="87"><![CDATA[Start variateur ~ 3-Q06]]></standard>
+		<standard Guid="8f6e50de-1ecc-4f19-ab5d-8ab24a23d587" textID="88"><![CDATA[EV HP hors gel ~ 3-Q07]]></standard>
+		<standard Guid="f403bdff-540b-4413-b6a3-58c918132f40" textID="89"><![CDATA[Code panne vers pupitre ~ 3-Q08]]></standard>
+		<standard Guid="8e1ba9f0-082e-41d9-8afd-1b19841f37cc" textID="90"><![CDATA[OFF / ON]]></standard>
+		<standard Guid="55a968b2-1b5f-422c-88ad-5bf4c92a4e1e" textID="91"><![CDATA[entrées / sorties]]></standard>
+		<standard Guid="6c3b6876-feff-4997-9080-37195281be63" textID="92"><![CDATA[Opérateur]]></standard>
+		<standard Guid="9b79ea91-c161-40c7-b30e-9d553983d4d5" textID="93"><![CDATA[En cours :]]></standard>
+		<standard Guid="1dbaf78c-0671-49f5-9c98-baf602b5d22a" textID="94"><![CDATA[Amorcage pompes doseuses]]></standard>
+		<standard Guid="5b2d95e0-5216-4518-9a70-61de93c5c7e0" textID="95"><![CDATA[Pompe doseuse jantes]]></standard>
+		<standard Guid="cd607e35-2d28-4257-8ea0-939458fc51d9" textID="96"><![CDATA[Pompe doseuse prélavage]]></standard>
+		<standard Guid="bb3b043d-8304-4fd0-9377-73554d9f6fb4" textID="97"><![CDATA[Pompe doseuse shampoing]]></standard>
+		<standard Guid="8adb82e2-be44-4bda-b9e3-0c58668eda64" textID="98"><![CDATA[Pompe doseuse brosse]]></standard>
+		<standard Guid="253cb32e-756e-4f7b-8982-62f4ce2738dd" textID="99"><![CDATA[Pompe doseuse cire]]></standard>
+		<standard Guid="94ffd0b7-07b3-47fb-a3e6-2cc0b111626d" textID="100"><![CDATA[arrêt piste]]></standard>
+		<standard Guid="75d82276-3dbd-4d1c-ab10-fcd9e8c4d3b3" textID="101"><![CDATA[page piste]]></standard>
+		<standard Guid="07d8659d-8aef-4124-937e-e00bb510ebfa" textID="102"><![CDATA[Horaires ouverture]]></standard>
+		<error Guid="64a2c438-7654-47a4-b52e-94adb9d67aa8" textID="0"><![CDATA[Lavage jantes]]></error>
+		<error Guid="0425fbb3-bcac-4536-9e28-2052318543bc" textID="1"><![CDATA[Prélavage]]></error>
+		<error Guid="73021637-f83f-400e-a723-c6751f50b7f0" textID="2"><![CDATA[Canon à mousse]]></error>
+		<error Guid="f29fab51-69f0-439e-acad-e3058c06f6b9" textID="3"><![CDATA[Manque d'eau]]></error>
+		<error Guid="bec1b466-4648-412d-9905-e5e3b61d2c66" textID="4"><![CDATA[Manque d'eau osmosée]]></error>
+		<error Guid="16b2f90d-fa99-4c8a-a2f5-a7f4da2903e8" textID="5"><![CDATA[Hors gel]]></error>
+	</texts>
+</languageData>
