@@ -1,11 +1,5 @@
 <StandardScreen Guid="a87fe81b-b6f9-4350-a27a-392734721d77" Res="[1024 600]" ScreenColor="[255 192 192 192]" ActiveSet="54f050df-3f4c-4f56-9c5f-97b85f6c2a33" Name="Contacts" No="4" Version="[10.6.0]" SaverTime="0" UseScreenSaver="0" UseTouchDisable="0" TouchTime="0" BackgroundScreen="561100d7-339a-4510-95bf-1b945f2ad13d">
-  <Checksum Value="908121825" />
-  <ControlUserControl Guid="8b8fde58-a829-4b88-b61c-13a0ce581db6" LockedPosition="0" ControlSet="54f050df-3f4c-4f56-9c5f-97b85f6c2a33" Name="" Anchor="5" BackColor="[0 255 255 255]" ResizeMode="0" AlignmentForUniformStretch="1" X_PropType="0" X_Value="0" Y_PropType="0" Y_Value="520" Width_PropType="0" Width_Value="1024" Height_PropType="0" Height_Value="80">
-    <SubScreenEntry Guid="9db55bbb-799d-46b9-9f0d-7b5ceaa83242" SubScreen="0a16fc11-e422-492d-b641-8c88088f23b0" Name="">
-      <SSAC Guid="b07c5d5b-4642-4a7d-8816-69571e871eac" />
-    </SubScreenEntry>
-  </ControlUserControl>
-  <Line Guid="baa54228-20bc-4933-81cf-3dc07edbae2a" LockedPosition="0" ControlSet="54f050df-3f4c-4f56-9c5f-97b85f6c2a33" Name="" LineStyleType="0" LineBeginType="0" LineEndType="0" Blink="0" BlinkCondition="0" X_PropType="0" X_Value="0" Y_PropType="0" Y_Value="520" StartX_PropType="0" StartX_Value="0" StartY_PropType="0" StartY_Value="520" EndX_PropType="0" EndX_Value="1024" EndY_PropType="0" EndY_Value="520" LineWidth_PropType="0" LineWidth_Value="1" LineColor_PropType="0" LineColor_Value="[255 0 255 0]" LineColor_Mode="0" LineColor_SetType="0" BlinkTag_PropType="1" />
+  <Checksum Value="2893779920" />
   <CImage Guid="6b1df6bc-5a6c-432e-a215-87cd4a195b1f" LockedPosition="0" ControlSet="54f050df-3f4c-4f56-9c5f-97b85f6c2a33" Name="" Anchor="5" IsDynamic="0" GesturesEnabled="0" X_PropType="0" X_Value="80" Y_PropType="0" Y_Value="180" Width_PropType="0" Width_Value="180" Height_PropType="0" Height_Value="170">
     <State Guid="ba467e54-b2bc-4397-801f-680256cb36d8" Name="Image" Version="[1.1.0]">
       <ColorDecorator Guid="167ac556-c715-46ea-b976-ae8d23c0de6e" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
@@ -37,5 +31,20 @@
     </State>
   </Text>
   <Rectangle Guid="9b9f8e61-7b68-42fe-9fd2-46779122868a" LockedPosition="0" ControlSet="54f050df-3f4c-4f56-9c5f-97b85f6c2a33" Name="" Anchor="5" LineBlink="0" LineBlinkCondition="0" FillBlink="0" FillBlinkCondition="0" X_PropType="0" X_Value="390" Y_PropType="0" Y_Value="10" Width_PropType="0" Width_Value="240" Height_PropType="0" Height_Value="40" LineWidth_PropType="0" LineWidth_Value="3" LineColor_PropType="0" LineColor_Value="[255 0 255 0]" LineColor_Mode="0" LineColor_SetType="0" LineBlinkTag_PropType="1" Filled_PropType="0" Filled_Value="0" FillColor_PropType="0" FillColor_Value="[255 255 255 255]" FillColor_Mode="0" FillColor_SetType="0" FillBlinkTag_PropType="1" Radius_PropType="0" Radius_Value="10" />
+  <MenuButton Guid="d446840e-2bbc-49a1-b119-b45435016a68" LockedPosition="0" ControlSet="54f050df-3f4c-4f56-9c5f-97b85f6c2a33" Name="" Anchor="5" Menu="407ead4f-abd0-430f-82be-b397d3cfd94c" Click="0" FrameStyle="2" Alignment="0" Behavior="1" Dim="1" X_PropType="0" X_Value="0" Y_PropType="0" Y_Value="0" Width_PropType="0" Width_Value="70" Height_PropType="0" Height_Value="60">
+    <State Guid="48a16aa0-98c1-444d-8b50-2f11d24ce77f" Name="Active" Version="[1.1.0]">
+      <ColorDecorator Guid="60f61c30-543d-4918-b0ad-4333e17e7e0b" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
+      <IconImageDecorator Guid="9cae301f-d962-4333-94ea-c16498ddd939" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="a7ca386f-cd7e-477f-a852-c3fdc36cb395" TriggerData_PropType="1" Margins="[5px, 5px, 5px, 5px]" />
+    </State>
+    <State Guid="6cc2252e-0c6a-43d2-ba15-cb93d44a1ae5" Name="Inactive" Version="[1.1.0]">
+      <ColorDecorator Guid="d22e34e3-a95b-4a54-ad47-40beacb614f2" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
+      <IconImageDecorator Guid="8227fe60-75c9-4b94-ad26-324a4e2ae70c" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="a7ca386f-cd7e-477f-a852-c3fdc36cb395" TriggerData_PropType="1" Margins="[5px, 5px, 5px, 5px]" />
+    </State>
+  </MenuButton>
+  <ControlUserControl Guid="d4c32ec8-e413-4f87-9d04-27dfdd242e3c" LockedPosition="0" ControlSet="54f050df-3f4c-4f56-9c5f-97b85f6c2a33" Name="" Anchor="5" BackColor="[0 255 255 255]" ResizeMode="0" AlignmentForUniformStretch="1" X_PropType="0" X_Value="904" Y_PropType="0" Y_Value="0" Width_PropType="0" Width_Value="120" Height_PropType="0" Height_Value="60">
+    <SubScreenEntry Guid="b093de9e-e1ee-48cf-9fe9-6e4c9a6dde53" SubScreen="3627ec8c-eb82-4f2c-8032-5f1705e61196" Name="">
+      <SSAC Guid="03f98af0-43e6-409c-8035-712cba3718df" />
+    </SubScreenEntry>
+  </ControlUserControl>
   <ControlSet Guid="54f050df-3f4c-4f56-9c5f-97b85f6c2a33" Name="ControlSet" />
 </StandardScreen>
