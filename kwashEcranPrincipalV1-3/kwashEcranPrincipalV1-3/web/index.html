@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+        <link rel="stylesheet" href="style.css" />
+        <link rel='shortcut icon' href='favicon.ico' />
+        <script src="jquery-2.1.4.min.js"></script>
+        <script src="hammer.min.js"></script>
+        <script src="fontfaceonload.js"></script>
+        <script src="jquery.event.move.js"></script>
+        <script src="screenfull.js"></script>
+        <script src="script.js"></script>
+        <script src="spin.min.js"></script>
+        <title>Galileo WebVisu</title>
+    </head>
+    <body>  
+        <textarea id="logTextArea" readonly></textarea>
+        <div id="mainDiv" class="mainDiv mainDivSmallButton">
+            <div id="canvasDiv">
+                <canvas id="canvas1" width="400" height="400">
+                    <div style="width: 400px; height: 400px"> 
+                    Your browser is not supported! (Does not support 'Canvas' element.)
+                    </div>
+                </canvas>
+            </div>    
+            <div id="timeoutDiv" class="semiTransparentOverlayDiv"></div>
+            <div id="settingsOverlay" class="semiTransparentOverlayDiv">
+                <div id="settingsDiv" class="centeredDiv">
+                    <div id="settingsHolder"></div>
+                    <div id="buttonHolder">
+                        <br/>
+                        <button id = "closeSettingsButton" onclick="GWeb.Menu.ToggleSettings()">Hide</button>
+                    </div>
+                </div>
+            </div>
+        </div> 
+        <button id="bigShowMenuButton"><img src="arrowUp.svg" alt="∧∧∧" width="18"></button>        
+        <div id="menuDiv"></div>     
+    </body>
+</html>

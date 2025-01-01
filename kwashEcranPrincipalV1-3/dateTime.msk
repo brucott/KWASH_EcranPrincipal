@@ -1,0 +1,17 @@
+<SubScreen Guid="3627ec8c-eb82-4f2c-8032-5f1705e61196" Res="[120 60]" ScreenColor="[0 255 255 255]" ActiveSet="0b0d1601-1d1e-491a-b000-6ee40e22f9c9" Name="dateTime" No="0" Version="[10.6.0]" DefaultResizeMode="0" DefaultAlignmentForUniformStretch="1">
+  <Checksum Value="3669784077" />
+  <TimeDate Guid="9726a082-f0f9-40e6-91a2-7e62524fc14d" LockedPosition="0" ControlSet="0b0d1601-1d1e-491a-b000-6ee40e22f9c9" Name="" Anchor="5" FrameStyle="2" DateTimeFomat="DD.MM.YYYY" X_PropType="0" X_Value="0" Y_PropType="0" Y_Value="30" Width_PropType="0" Width_Value="120" Height_PropType="0" Height_Value="30">
+    <State Guid="24d5c735-28e5-4add-910b-9049b69704f8" Name="Text" Version="[1.1.0]">
+      <ColorDecorator Guid="8dc1d06f-982d-4e14-bf23-e1f7f6f869ab" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
+      <TextDecorator Guid="8bd6a945-ec63-4ccd-bebb-0fd5f13dbdd4" ID="1" Font="[0,16,1]" Color="[255 233 233 233]" Blink="0" AlignH="1" AlignV="1" Rotation="0" WordBreak="1" MainData_PropType="0" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
+    </State>
+  </TimeDate>
+  <TimeDate Guid="279171d9-3327-4227-ab42-3506a2caff91" LockedPosition="0" ControlSet="0b0d1601-1d1e-491a-b000-6ee40e22f9c9" Name="" Anchor="5" FrameStyle="2" DateTimeFomat="hh:mm:ss" X_PropType="0" X_Value="0" Y_PropType="0" Y_Value="0" Width_PropType="0" Width_Value="120" Height_PropType="0" Height_Value="30">
+    <State Guid="8c56e3dd-9b2f-41d1-a37e-1b707d1d6e07" Name="Text" Version="[1.1.0]">
+      <ColorDecorator Guid="a3ba400d-c806-4652-9004-e1c22a3fade7" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
+      <TextDecorator Guid="7b2e8445-81ff-41ff-84d4-6e85569b7d5c" ID="1" Font="[0,16,1]" Color="[255 233 233 233]" Blink="0" AlignH="1" AlignV="1" Rotation="0" WordBreak="1" MainData_PropType="0" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
+    </State>
+  </TimeDate>
+  <ControlSet Guid="0b0d1601-1d1e-491a-b000-6ee40e22f9c9" Name="ControlSet" />
+  <SSPC Guid="1d3ef7c6-596d-4f8b-9600-56bc32ae9bba" />
+</SubScreen>

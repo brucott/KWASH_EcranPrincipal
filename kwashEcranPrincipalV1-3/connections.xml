@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<ConnectionManager xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <FtpConnections>
+    <FtpConnection>
+      <Guid>7b0c014b-77c3-4e44-918a-ac5308e14873</Guid>
+      <Name>Ftp</Name>
+      <Host>192.168.0.33</Host>
+      <Username />
+      <PasswordCrypted>sa2Iy70B/eWKkD+KPJQ0YQ==</PasswordCrypted>
+      <Port>21</Port>
+      <Timeout>15</Timeout>
+      <DestinationFolder>\InternalStorage</DestinationFolder>
+      <Mode>Passive</Mode>
+    </FtpConnection>
+  </FtpConnections>
+  <SshConnections />
+  <Folders />
+  <LastUsedTarget>294fc745-0194-49ba-ac30-d183c0103e64</LastUsedTarget>
+  <KeepAutoexec>false</KeepAutoexec>
+  <DownloadSourceAsZip>false</DownloadSourceAsZip>
+  <PasswordProtection>false</PasswordProtection>
+  <Password />
+  <StopRunningGrs>true</StopRunningGrs>
+  <RestartGrs>true</RestartGrs>
+  <WaitTimeAfterShutdown>2</WaitTimeAfterShutdown>
+  <UploadRecipes>false</UploadRecipes>
+  <UploadUserManagement>false</UploadUserManagement>
+</ConnectionManager>

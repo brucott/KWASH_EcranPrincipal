@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg class="style-scope iron-icon" display="block" pointer-events="none" style="height:100%;width:100%" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+ <path fill="white" d="m20.795 0c-11.52 0-20.795 10.519-20.795 23.586v52.828c0 13.067 9.2747 23.586 20.795 23.586h58.41c11.52 0 20.795-10.519 20.795-23.586v-52.828c0-13.067-9.2747-23.586-20.795-23.586h-58.41zm2.9199 5h52.57c10.368 0 18.715 9.4681 18.715 21.229v47.543c0 11.76-8.3466 21.229-18.715 21.229h-52.57c-10.368 0-18.715-9.4681-18.715-21.229v-47.543c0-11.76 8.3466-21.229 18.715-21.229z" stroke-width="2.2147"/>
+ <g>
+  <path fill="white" d="m87 13h-25l25 25z" display="block" stroke-width="1.25"/>
+  <rect fill="white" transform="rotate(225)" x="-75.95" y="12.802" width="10" height="22"/>
+  <path fill="white" d="m13 87h25l-25-25z" display="block" stroke-width="1.25"/>
+  <rect fill="white" transform="rotate(45)" x="65.471" y="12.802" width="10" height="22" display="block"/>
+ </g>
+</svg>
