@@ -72,7 +72,7 @@
 			<s ID="60"><![CDATA[1-I07 ~ polish]]></s>
 			<s ID="61"><![CDATA[1-I08 ~ cire]]></s>
 			<s ID="62"><![CDATA[2-I01 ~ finition]]></s>
-			<s ID="63"><![CDATA[Entrées / sorties]]></s>
+			<s ID="63"><![CDATA[Piste 1 - Entrées / sorties]]></s>
 			<s ID="64"><![CDATA[3-I01 ~ déf. moteur pompe HP]]></s>
 			<s ID="65"><![CDATA[3-I02 ~ déf. eau]]></s>
 			<s ID="66"><![CDATA[3-I01 ~ déf. eau osmosée]]></s>
@@ -101,8 +101,8 @@
 			<s ID="89"><![CDATA[Code panne vers pupitre ~ 3-Q08]]></s>
 			<s ID="90"><![CDATA[OFF / ON]]></s>
 			<s ID="91"><![CDATA[entrées / sorties]]></s>
-			<s ID="92"><![CDATA[Opérateur]]></s>
-			<s ID="93"><![CDATA[Connecté]]></s>
+			<s ID="92"><![CDATA[Accès]]></s>
+			<s ID="93"><![CDATA[Utilisateur connecté :]]></s>
 			<s ID="94"><![CDATA[Amorcage pompes doseuses]]></s>
 			<s ID="95"><![CDATA[Pompe doseuse jantes]]></s>
 			<s ID="96"><![CDATA[Pompe doseuse prélavage]]></s>
@@ -115,6 +115,7 @@
 			<s ID="103"><![CDATA[Utilisateurs]]></s>
 			<s ID="104"><![CDATA[Utilisateur :]]></s>
 			<s ID="105"><![CDATA[Mot de passe :]]></s>
+			<s ID="106"><![CDATA[Déconnexion]]></s>
 			<s ID="-10"><![CDATA[Delete User Account]]></s>
 			<s ID="-9"><![CDATA[Create User Account]]></s>
 			<s ID="-8"><![CDATA[Change group of user]]></s>

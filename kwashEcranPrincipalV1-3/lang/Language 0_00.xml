@@ -64,7 +64,7 @@
 		<standard Guid="e5f9a6e9-ca12-40d0-81fd-b5fd0054e8df" textID="60"><![CDATA[1-I07 ~ polish]]></standard>
 		<standard Guid="01f61818-5d35-410c-adff-31a8a4722ab5" textID="61"><![CDATA[1-I08 ~ cire]]></standard>
 		<standard Guid="0f6e98bb-91fc-4701-9285-dda2811b0944" textID="62"><![CDATA[2-I01 ~ finition]]></standard>
-		<standard Guid="db3b74fc-f0f0-4656-aaf6-0a6f4a57b3f1" textID="63"><![CDATA[Entrées / sorties]]></standard>
+		<standard Guid="db3b74fc-f0f0-4656-aaf6-0a6f4a57b3f1" textID="63"><![CDATA[Piste 1 - Entrées / sorties]]></standard>
 		<standard Guid="9046368e-731e-4fb2-a3f0-c9603835d998" textID="64"><![CDATA[3-I01 ~ déf. moteur pompe HP]]></standard>
 		<standard Guid="927cd22b-eb0f-4254-bd7f-2f4d3dc67622" textID="65"><![CDATA[3-I02 ~ déf. eau]]></standard>
 		<standard Guid="b573bb33-c89b-46de-b682-f3cf6cc477d5" textID="66"><![CDATA[3-I01 ~ déf. eau osmosée]]></standard>
@@ -93,8 +93,8 @@
 		<standard Guid="f403bdff-540b-4413-b6a3-58c918132f40" textID="89"><![CDATA[Code panne vers pupitre ~ 3-Q08]]></standard>
 		<standard Guid="8e1ba9f0-082e-41d9-8afd-1b19841f37cc" textID="90"><![CDATA[OFF / ON]]></standard>
 		<standard Guid="55a968b2-1b5f-422c-88ad-5bf4c92a4e1e" textID="91"><![CDATA[entrées / sorties]]></standard>
-		<standard Guid="6c3b6876-feff-4997-9080-37195281be63" textID="92"><![CDATA[Opérateur]]></standard>
-		<standard Guid="9b79ea91-c161-40c7-b30e-9d553983d4d5" textID="93"><![CDATA[Connecté]]></standard>
+		<standard Guid="6c3b6876-feff-4997-9080-37195281be63" textID="92"><![CDATA[Accès]]></standard>
+		<standard Guid="9b79ea91-c161-40c7-b30e-9d553983d4d5" textID="93"><![CDATA[Utilisateur connecté :]]></standard>
 		<standard Guid="1dbaf78c-0671-49f5-9c98-baf602b5d22a" textID="94"><![CDATA[Amorcage pompes doseuses]]></standard>
 		<standard Guid="5b2d95e0-5216-4518-9a70-61de93c5c7e0" textID="95"><![CDATA[Pompe doseuse jantes]]></standard>
 		<standard Guid="cd607e35-2d28-4257-8ea0-939458fc51d9" textID="96"><![CDATA[Pompe doseuse prélavage]]></standard>
@@ -107,6 +107,7 @@
 		<standard Guid="03da6798-55b0-4cd7-925e-60382fd3963d" textID="103"><![CDATA[Utilisateurs]]></standard>
 		<standard Guid="17f98a41-e182-4c83-be14-205c2fe870ca" textID="104"><![CDATA[Utilisateur :]]></standard>
 		<standard Guid="105ce77c-c844-4700-8a9a-7e29b2967a89" textID="105"><![CDATA[Mot de passe :]]></standard>
+		<standard Guid="24b0b032-558a-4ca5-b357-a843c48fddde" textID="106"><![CDATA[Déconnexion]]></standard>
 		<error Guid="64a2c438-7654-47a4-b52e-94adb9d67aa8" textID="0"><![CDATA[Lavage jantes]]></error>
 		<error Guid="0425fbb3-bcac-4536-9e28-2052318543bc" textID="1"><![CDATA[Prélavage]]></error>
 		<error Guid="73021637-f83f-400e-a723-c6751f50b7f0" textID="2"><![CDATA[Canon à mousse]]></error>
