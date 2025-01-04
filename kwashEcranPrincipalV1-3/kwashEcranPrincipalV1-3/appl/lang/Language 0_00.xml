@@ -112,6 +112,9 @@
 			<s ID="100"><![CDATA[arrêt piste]]></s>
 			<s ID="101"><![CDATA[page piste]]></s>
 			<s ID="102"><![CDATA[Horaires ouverture]]></s>
+			<s ID="103"><![CDATA[Utilisateurs]]></s>
+			<s ID="104"><![CDATA[Utilisateur :]]></s>
+			<s ID="105"><![CDATA[Mot de passe :]]></s>
 			<s ID="-10"><![CDATA[Delete User Account]]></s>
 			<s ID="-9"><![CDATA[Create User Account]]></s>
 			<s ID="-8"><![CDATA[Change group of user]]></s>

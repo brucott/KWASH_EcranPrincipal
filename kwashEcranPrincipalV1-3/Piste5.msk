@@ -1,16 +1,11 @@
 <StandardScreen Guid="1e414557-726c-47dc-872e-5ea1a0a5a40f" Res="[1024 600]" ScreenColor="[255 192 192 192]" ActiveSet="8b3d525b-4b24-463c-9b3f-f7b522e304b0" Name="Piste5" No="10" Version="[10.6.0]" SaverTime="0" UseScreenSaver="0" UseTouchDisable="0" TouchTime="0" BackgroundScreen="561100d7-339a-4510-95bf-1b945f2ad13d">
-  <Checksum Value="1747174891" />
+  <Checksum Value="139880781" />
   <Text Guid="928fd6e4-4660-4ef0-81af-f7dac76832ae" LockedPosition="0" ControlSet="8b3d525b-4b24-463c-9b3f-f7b522e304b0" Name="" Anchor="5" X_PropType="0" X_Value="390" Y_PropType="0" Y_Value="10" Width_PropType="0" Width_Value="240" Height_PropType="0" Height_Value="40">
     <State Guid="7da58f02-d24e-43b0-8e21-fd0214ab15cc" Name="Text" Version="[1.1.0]">
       <ColorDecorator Guid="439600b6-0201-43cf-a6c0-fd97779c8102" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
       <TextDecorator Guid="8796c1a6-c4e8-4747-a05e-d6f6953bb777" ID="1" Font="[0,20,0]" Color="[255 233 233 233]" Blink="0" AlignH="1" AlignV="1" Rotation="0" WordBreak="1" MainData_PropType="0" MainData_Value="84e1435a-48b6-4ddd-bd22-e5de2988976c" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
     </State>
   </Text>
-  <ControlUserControl Guid="3c8fae55-c9f5-41bf-8419-52979fc854e4" LockedPosition="0" ControlSet="8b3d525b-4b24-463c-9b3f-f7b522e304b0" Name="" Anchor="5" BackColor="[0 255 255 255]" ResizeMode="0" AlignmentForUniformStretch="1" X_PropType="0" X_Value="0" Y_PropType="0" Y_Value="520" Width_PropType="0" Width_Value="1024" Height_PropType="0" Height_Value="80">
-    <SubScreenEntry Guid="4a298dac-8157-42e1-aea9-ab9b7625712f" SubScreen="0a16fc11-e422-492d-b641-8c88088f23b0" Name="">
-      <SSAC Guid="e279bbf8-b177-4444-b1c8-9bee1b49411f" />
-    </SubScreenEntry>
-  </ControlUserControl>
   <Line Guid="c7f17311-3036-44d4-83ab-4ed37056c835" LockedPosition="0" ControlSet="8b3d525b-4b24-463c-9b3f-f7b522e304b0" Name="" LineStyleType="0" LineBeginType="0" LineEndType="0" Blink="0" BlinkCondition="0" X_PropType="0" X_Value="0" Y_PropType="0" Y_Value="520" StartX_PropType="0" StartX_Value="0" StartY_PropType="0" StartY_Value="520" EndX_PropType="0" EndX_Value="1024" EndY_PropType="0" EndY_Value="520" LineWidth_PropType="0" LineWidth_Value="1" LineColor_PropType="0" LineColor_Value="[255 0 255 0]" LineColor_Mode="0" LineColor_SetType="0" BlinkTag_PropType="1" />
   <Text Guid="0c0a297d-6ec5-4061-ae7c-ecfa072d0ea8" LockedPosition="0" ControlSet="8b3d525b-4b24-463c-9b3f-f7b522e304b0" Name="" Anchor="5" X_PropType="0" X_Value="680" Y_PropType="0" Y_Value="160" Width_PropType="0" Width_Value="90" Height_PropType="0" Height_Value="30">
     <State Guid="b74b7eeb-501c-4bb4-bb54-f21fd7a49623" Name="Text" Version="[1.1.0]">

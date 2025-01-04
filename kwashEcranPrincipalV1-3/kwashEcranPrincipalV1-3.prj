@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <ProjectData Guid="7cd59ee3-1fa9-4250-8b4e-afc5ceaff8e1" Version="[10.6.0]" GalileoVersion="Galileo (10.6.11.47324)" ProjectType="0">
-  <Checksum Value="682438883" />
+  <Checksum Value="471473062" />
   <VisualizationManager Guid="46e00603-913f-4ca2-b4b1-8fd884b335af" ActiveVisu="3065087d-7ca2-430f-bebe-6164f3619165" LocalVisu="4dcced77-ca9c-4ec9-a602-5dbaf36ab771">
     <VisualizationGroup Guid="4dcced77-ca9c-4ec9-a602-5dbaf36ab771" Name="Local" Width="0" Height="0" DefaultBackgroundScreen="561100d7-339a-4510-95bf-1b945f2ad13d">
       <Visualization Guid="3065087d-7ca2-430f-bebe-6164f3619165" Name="Local" URL="" Enabled="1" Pwd="" StartScreen="7fa6a5da-06d9-4454-8588-a065ee59cbd6" AutoDisconnectTimeInSeconds="0">
@@ -18,8 +18,8 @@
           <ScreenFolderRootNew Guid="a587004e-4ec7-4ce2-8720-e2e43c0f8042" Name="" Type="1">
             <ScreenRef Guid="7fa6a5da-06d9-4454-8588-a065ee59cbd6" Name="Start" />
             <ScreenRef Guid="266f9238-73ab-4281-9f8d-011f1e6fe55a" Name="parameters" />
-            <ScreenRef Guid="346a85be-e345-4ddc-b927-55223035aadb" Name="alarmes" />
-            <ScreenRef Guid="f73941e5-1bd1-4da9-ae1e-37148dd22ad2" Name="Compteurs" />
+            <ScreenRef Guid="346a85be-e345-4ddc-b927-55223035aadb" Name="alarms" />
+            <ScreenRef Guid="f73941e5-1bd1-4da9-ae1e-37148dd22ad2" Name="Counters" />
             <ScreenRef Guid="a87fe81b-b6f9-4350-a27a-392734721d77" Name="Contacts" />
             <ScreenRef Guid="38622c3f-4bb5-443c-8fac-9f139755d8bc" Name="Piste1_IOs" />
             <ScreenRef Guid="3b937a85-07fe-489b-b197-ec597b15bdb3" Name="Piste1" />
@@ -27,13 +27,14 @@
             <ScreenRef Guid="f3665f3a-6f2f-47fd-939c-689316f39b52" Name="Piste3" />
             <ScreenRef Guid="5dc94282-b5e2-43a5-a58d-d0ae24b8a298" Name="Piste4" />
             <ScreenRef Guid="1e414557-726c-47dc-872e-5ea1a0a5a40f" Name="Piste5" />
+            <ScreenRef Guid="f2acbc91-c72a-47ef-82b0-a29cddc18aac" Name="UserManagement" />
           </ScreenFolderRootNew>
           <ScreenFolderRootNew Guid="3895ba6d-5254-4c4a-b5dc-1da0dbc93c2a" Name="" Type="3" />
           <ScreenFolderRootNew Guid="467d9255-4d48-4818-85d7-54f6a83856fc" Name="" Type="4" />
           <ScreenFolderRootNew Guid="6aabe6e8-bcc9-4b40-9911-585011d35dbe" Name="" Type="2">
-            <ScreenRef Guid="0a16fc11-e422-492d-b641-8c88088f23b0" Name="bandeauBas" />
             <ScreenRef Guid="407ead4f-abd0-430f-82be-b397d3cfd94c" Name="menu" />
             <ScreenRef Guid="3627ec8c-eb82-4f2c-8032-5f1705e61196" Name="dateTime" />
+            <ScreenRef Guid="52b5c7d8-1c16-4407-b851-27e63cf855ff" Name="UserLoginPopup" />
           </ScreenFolderRootNew>
           <ScreenFolderRootNew Guid="e652b6c7-5414-422c-9b1f-716ae0e93457" Name="" Type="5" />
           <ScreenFolderRootNew Guid="898f8ed9-71a0-45b3-94ee-e9c31d748672" Name="" Type="6">
@@ -166,6 +167,9 @@
     <StandardText Guid="94ffd0b7-07b3-47fb-a3e6-2cc0b111626d" TextId="100" />
     <StandardText Guid="75d82276-3dbd-4d1c-ab10-fcd9e8c4d3b3" TextId="101" />
     <StandardText Guid="07d8659d-8aef-4124-937e-e00bb510ebfa" TextId="102" />
+    <StandardText Guid="03da6798-55b0-4cd7-925e-60382fd3963d" TextId="103" />
+    <StandardText Guid="17f98a41-e182-4c83-be14-205c2fe870ca" TextId="104" />
+    <StandardText Guid="105ce77c-c844-4700-8a9a-7e29b2967a89" TextId="105" />
     <ErrorText Guid="64a2c438-7654-47a4-b52e-94adb9d67aa8" TextId="0" />
     <ErrorText Guid="0425fbb3-bcac-4536-9e28-2052318543bc" TextId="1" />
     <ErrorText Guid="73021637-f83f-400e-a723-c6751f50b7f0" TextId="2" />

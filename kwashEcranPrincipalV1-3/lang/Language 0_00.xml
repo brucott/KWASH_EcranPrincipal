@@ -104,6 +104,9 @@
 		<standard Guid="94ffd0b7-07b3-47fb-a3e6-2cc0b111626d" textID="100"><![CDATA[arrêt piste]]></standard>
 		<standard Guid="75d82276-3dbd-4d1c-ab10-fcd9e8c4d3b3" textID="101"><![CDATA[page piste]]></standard>
 		<standard Guid="07d8659d-8aef-4124-937e-e00bb510ebfa" textID="102"><![CDATA[Horaires ouverture]]></standard>
+		<standard Guid="03da6798-55b0-4cd7-925e-60382fd3963d" textID="103"><![CDATA[Utilisateurs]]></standard>
+		<standard Guid="17f98a41-e182-4c83-be14-205c2fe870ca" textID="104"><![CDATA[Utilisateur :]]></standard>
+		<standard Guid="105ce77c-c844-4700-8a9a-7e29b2967a89" textID="105"><![CDATA[Mot de passe :]]></standard>
 		<error Guid="64a2c438-7654-47a4-b52e-94adb9d67aa8" textID="0"><![CDATA[Lavage jantes]]></error>
 		<error Guid="0425fbb3-bcac-4536-9e28-2052318543bc" textID="1"><![CDATA[Prélavage]]></error>
 		<error Guid="73021637-f83f-400e-a723-c6751f50b7f0" textID="2"><![CDATA[Canon à mousse]]></error>

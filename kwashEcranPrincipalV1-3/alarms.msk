@@ -1,5 +1,5 @@
-<StandardScreen Guid="346a85be-e345-4ddc-b927-55223035aadb" Res="[1024 600]" ScreenColor="[255 192 192 192]" ActiveSet="56862726-3553-4810-be75-fbdcd5154ea5" Name="alarmes" No="2" Version="[10.6.0]" SaverTime="0" UseScreenSaver="0" UseTouchDisable="0" TouchTime="0" BackgroundScreen="561100d7-339a-4510-95bf-1b945f2ad13d">
-  <Checksum Value="2019263675" />
+<StandardScreen Guid="346a85be-e345-4ddc-b927-55223035aadb" Res="[1024 600]" ScreenColor="[255 192 192 192]" ActiveSet="56862726-3553-4810-be75-fbdcd5154ea5" Name="alarms" No="2" Version="[10.6.0]" SaverTime="0" UseScreenSaver="0" UseTouchDisable="0" TouchTime="0" BackgroundScreen="561100d7-339a-4510-95bf-1b945f2ad13d">
+  <Checksum Value="870434045" />
   <Text Guid="42291257-aae5-4f18-a1d0-2c7adb470df8" LockedPosition="0" ControlSet="56862726-3553-4810-be75-fbdcd5154ea5" Name="" Anchor="5" X_PropType="0" X_Value="390" Y_PropType="0" Y_Value="10" Width_PropType="0" Width_Value="240" Height_PropType="0" Height_Value="40">
     <State Guid="28a071e3-c662-4977-bf5e-2d0d1b706006" Name="Text" Version="[1.1.0]">
       <ColorDecorator Guid="5c88bed1-df57-4e81-be9c-ca976d4cb344" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
