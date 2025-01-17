@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Messages>
+  <Message id="0" type="0">
+    <Text lng="English">%1</Text>
+  </Message>
+  <Message id="1" type="1">
+    <Text lng="English">%1</Text>
+  </Message>
+  <Message id="2" type="1">
+    <Text lng="English">Can't find or read from file '%1'</Text>
+  </Message>
+  <Message id="3" type="1">
+    <Text lng="English">Can't read from text number &lt;%1!d!&gt; from file '%2' !</Text>
+  </Message>
+  <Message id="4" type="1">
+    <Text lng="English">Project entry screen (%1) not found !</Text>
+  </Message>
+  <Message id="5" type="1">
+    <Text lng="English">No matching file found (%1) !</Text>
+  </Message>
+  <Message id="6" type="1">
+    <Text lng="English">No more memory available for function %1 !</Text>
+  </Message>
+  <Message id="7" type="1">
+    <Text lng="English">Some texts in textfile '%1' are missing !</Text>
+  </Message>
+  <Message id="8" type="1">
+    <Text lng="English">Accessing '%1' failed with error '%2' !</Text>
+  </Message>
+  <Message id="9" type="1">
+    <Text lng="English">The function &lt; %1 &gt; is not supported !</Text>
+  </Message>
+  <Message id="10" type="1">
+    <Text lng="English">Touch is dirty or defect!</Text>
+  </Message>
+  <Message id="11" type="1">
+    <Text lng="English">Can't create or write to file '%1' !</Text>
+  </Message>
+  <Message id="12" type="1">
+    <Text lng="English">Header information in file is invalid (%1) !</Text>
+  </Message>
+  <Message id="13" type="1">
+    <Text lng="English">Recipe with id &lt; %1 &gt; not found</Text>
+  </Message>
+  <Message id="14" type="1">
+    <Text lng="English">Can't save recipe with empty name !</Text>
+  </Message>
+  <Message id="15" type="1">
+    <Text lng="English">The recipe name '%1' already exist ! Choose another name.</Text>
+  </Message>
+  <Message id="16" type="1">
+    <Text lng="English">Execution of function %1 has failed (%2) !</Text>
+  </Message>
+  <Message id="17" type="1">
+    <Text lng="English">Error in script '%1' !</Text>
+  </Message>
+  <Message id="18" type="1">
+    <Text lng="English">Can't read from file '%1' - structure mismatch!</Text>
+  </Message>
+  <Message id="19" type="1">
+    <Text lng="English">No user authorization for '%1' !</Text>
+  </Message>
+  <Message id="20" type="1">
+    <Text lng="English">Communication disturbed: '%1' !</Text>
+  </Message>
+  <Message id="21" type="1">
+    <Text lng="English">Not enough Diskspace available (%1 kB)</Text>
+  </Message>
+  <Message id="22" type="1">
+    <Text lng="English">Protected or invalid path defined (%1) !</Text>
+  </Message>
+  <Message id="23" type="1">
+    <Text lng="English">Printer not ready !</Text>
+  </Message>
+  <Message id="24" type="1">
+    <Text lng="English">Printer busy !</Text>
+  </Message>
+  <Message id="25" type="1">
+    <Text lng="English">Incorrect Galileo license key (%1) - DEMO mode !</Text>
+  </Message>
+  <Message id="26" type="1">
+    <Text lng="English">No valid runtime license found - DEMO mode !</Text>
+  </Message>
+  <Message id="27" type="1">
+    <Text lng="English">Demo mode has expired! Runtime will shut down.</Text>
+  </Message>
+  <Message id="28" type="1">
+    <Text lng="English">Printer &lt; %1 &gt; not detected !</Text>
+  </Message>
+  <Message id="29" type="1">
+    <Text lng="English">%1 (%2)</Text>
+  </Message>
+  <Message id="30" type="1">
+    <Text lng="English">Authentication failed: Username and/or password wrong</Text>
+  </Message>
+  <Message id="31" type="1">
+    <Text lng="English">Username is empty</Text>
+  </Message>
+  <Message id="32" type="1">
+    <Text lng="English">Password is empty</Text>
+  </Message>
+  <Message id="33" type="1">
+    <Text lng="English">No group selected</Text>
+  </Message>
+  <Message id="34" type="1">
+    <Text lng="English">Your password has expired and must be changed</Text>
+  </Message>
+  <Message id="35" type="1">
+    <Text lng="English">Too many failed login attempts, the account is locked</Text>
+  </Message>
+  <Message id="36" type="1">
+    <Text lng="English">Cannot create user: Number of users has reached the maximum</Text>
+  </Message>
+  <Message id="37" type="1">
+    <Text lng="English">Group '%1' does not exist</Text>
+  </Message>
+  <Message id="38" type="1">
+    <Text lng="English">User '%1' does not exist</Text>
+  </Message>
+  <Message id="39" type="1">
+    <Text lng="English">User '%1' already exists</Text>
+  </Message>
+  <Message id="40" type="1">
+    <Text lng="English">New Password must differ from current one</Text>
+  </Message>
+  <Message id="41" type="1">
+    <Text lng="English">New Password already used in history</Text>
+  </Message>
+  <Message id="42" type="1">
+    <Text lng="English">Cannot confirm new password: not matching</Text>
+  </Message>
+  <Message id="43" type="1">
+    <Text lng="English">No active user present. Please login to perform action</Text>
+  </Message>
+  <Message id="44" type="1">
+    <Text lng="English">User '%1' is locked</Text>
+  </Message>
+  <Message id="45" type="1">
+    <Text lng="English">Password is too short. Type at least %1 characters</Text>
+  </Message>
+  <Message id="46" type="1">
+    <Text lng="English">Cannot lock active user</Text>
+  </Message>
+  <Message id="47" type="1">
+    <Text lng="English">Cannot delete active user</Text>
+  </Message>
+  <Message id="48" type="1">
+    <Text lng="English">No permission to create user in group '%1'</Text>
+  </Message>
+  <Message id="49" type="1">
+    <Text lng="English">No permission to delete user '%1' in group '%2'</Text>
+  </Message>
+  <Message id="50" type="1">
+    <Text lng="English">No permission to change password of user '%1'</Text>
+  </Message>
+  <Message id="51" type="1">
+    <Text lng="English">No permission to change group of user '%1'</Text>
+  </Message>
+  <Message id="52" type="1">
+    <Text lng="English">No permission to modify group '%1'</Text>
+  </Message>
+  <Message id="53" type="1">
+    <Text lng="English">No permission to lock user '%1'</Text>
+  </Message>
+  <Message id="54" type="1">
+    <Text lng="English">No permission to unlock user '%1'</Text>
+  </Message>
+  <Message id="55" type="1">
+    <Text lng="English">No permission to create users on this device</Text>
+  </Message>
+  <Message id="56" type="1">
+    <Text lng="English">No permission to delete users on this device</Text>
+  </Message>
+  <Message id="57" type="1">
+    <Text lng="English">No permission to change passwords</Text>
+  </Message>
+  <Message id="58" type="1">
+    <Text lng="English">No permission to change group affiliations</Text>
+  </Message>
+  <Message id="59" type="1">
+    <Text lng="English">No permission to lock/unlock users</Text>
+  </Message>
+  <Message id="60" type="0">
+    <Text lng="English">Successfully created user '%1'</Text>
+  </Message>
+  <Message id="61" type="0">
+    <Text lng="English">Successfully deleted user '%1'</Text>
+  </Message>
+  <Message id="62" type="0">
+    <Text lng="English">Successfully locked user '%1'</Text>
+  </Message>
+  <Message id="63" type="0">
+    <Text lng="English">Successfully unlocked user '%1'</Text>
+  </Message>
+  <Message id="64" type="0">
+    <Text lng="English">Successfully changed password of user '%1'</Text>
+  </Message>
+  <Message id="65" type="0">
+    <Text lng="English">Successfully changed group of user '%1'</Text>
+  </Message>
+  <Message id="66" type="0">
+    <Text lng="English">GraphBlock is running. Please stop to perform file loading.</Text>
+  </Message>
+  <Message id="67" type="2">
+    <Text lng="English">Update required: '%1'</Text>
+  </Message>
+</Messages>

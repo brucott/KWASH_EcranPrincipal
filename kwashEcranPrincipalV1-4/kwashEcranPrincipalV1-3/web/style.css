@@ -1,0 +1,150 @@
+*
+{
+    margin:0;padding:0;    
+}
+
+html, body 
+{
+    background-color: #000000;
+    height:100%;
+    width:100%;
+}
+
+div
+{ }
+
+#logTextArea
+{
+    width: 90%;
+    height: 40%;
+    display: none;
+    resize: vertical;
+}
+
+.mainDiv
+{
+    position: relative;
+    width: 100%;
+    border: none;
+    background: white;
+    z-index: 0;
+}
+
+.mainDiv.mainDivSmallButton
+{
+    height: -moz-calc(100% - 22px);
+    height: -webkit-calc(100% - 22px);
+    height: calc(100% - 22px);
+}
+
+.mainDiv.mainDivBigButton
+{
+    height: -moz-calc(100% - 62px);
+    height: -webkit-calc(100% - 62px);
+    height: calc(100% - 62px);
+}
+
+#menuDiv
+{
+    border: none;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    height: 60px;
+    bottom: 0;
+    display: none;
+}
+
+.semiTransparentOverlayDiv
+{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border: none;
+    background-color: #000;
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    display: none;
+}
+
+.centeredDiv
+{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.menuButton
+{
+    vertical-align: middle;  
+    height: 50px;
+    background-color: black;
+    color:white;
+    padding: 5px;
+    margin-top: 3px;
+    margin-left: 2px;
+    margin-right: 2px;
+    border-radius: 0px;
+}
+
+.menuButton img
+{
+    width: 30px;
+}
+
+.menuButton.Toggled
+{
+    background: #00f;
+}
+
+#bigShowMenuButton
+{  
+    border: none;
+    text-align: center;
+    bottom: 0;
+    color:white;
+    font-size: 15px;
+    background-color: black;
+    width: 100%;
+    height: 20px;
+}
+
+#canvasDiv
+{
+    border: none;
+    width: 100%;
+    height: 100%;
+}
+
+canvas
+{
+    position: relative;
+    border: none;
+    top: 0px;
+    padding: 0px;
+    overflow: hidden !important;
+    display: block;
+}
+
+/* SETTINGS */
+
+#settingsDiv
+{
+    background-color: #0079C1;
+    text-align: left;
+    font-size: 20px;
+}
+
+#buttonHolder 
+{
+    text-align: center;
+}
+
+#buttonHolder button
+{
+    font-size: 20px;
+}

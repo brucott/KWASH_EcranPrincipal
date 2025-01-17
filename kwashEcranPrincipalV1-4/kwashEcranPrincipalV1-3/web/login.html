@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Galileo Web Interface</title>
+        
+        <script>
+        function setFocusToPwd(){
+            document.getElementById("passwordInput").focus();
+        }
+        </script>
+
+    </head>
+    <body onload="setFocusToPwd()">  
+        <div style="width: 100%; height: 100px; position: absolute; top: 0; bottom: 0; left: 0; right: 0; margin: auto;">
+            <div style="background-color: lightblue; margin: 0 auto; width: 350px; border: solid blue; text-align: center; margin-top: 10px; border-radius: 10px;">
+                <p style="font-weight: bold; font-size: 20px;">Galileo 10 WebVisu</p>
+                <div style="padding-bottom: 10px;">
+                    <form method="post">
+                        Password:
+                        <input id="passwordInput" type="password" name="p" maxlength="27" style="width: 230px"><br><br>
+                        <input id="submitButton" type="submit" value="Submit"><br>
+                    </form>  
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
