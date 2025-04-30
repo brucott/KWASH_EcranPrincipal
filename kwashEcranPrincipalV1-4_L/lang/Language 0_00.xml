@@ -115,6 +115,7 @@
 		<standard Guid="78c63af8-dfa5-4641-a797-9ac81ad48534" textID="111"><![CDATA[auto]]></standard>
 		<standard Guid="c73031b8-d81f-430e-b1ed-2ee0288f5ed4" textID="112"><![CDATA[Page]]></standard>
 		<standard Guid="29b2dcaf-4f02-4a1c-ae64-ed2421f6d5fd" textID="113"><![CDATA[Programme en cours]]></standard>
+		<standard Guid="76ba1dc3-c85e-4d6b-9b42-812e11937ddb" textID="114"><![CDATA[Stop]]></standard>
 		<error Guid="64a2c438-7654-47a4-b52e-94adb9d67aa8" textID="0"><![CDATA[Lavage jantes]]></error>
 		<error Guid="0425fbb3-bcac-4536-9e28-2052318543bc" textID="1"><![CDATA[Prélavage]]></error>
 		<error Guid="73021637-f83f-400e-a723-c6751f50b7f0" textID="2"><![CDATA[Canon à mousse]]></error>

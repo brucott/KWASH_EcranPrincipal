@@ -1,5 +1,5 @@
 <StandardScreen Guid="a87fe81b-b6f9-4350-a27a-392734721d77" Res="[800 480]" ScreenColor="[255 192 192 192]" ActiveSet="54f050df-3f4c-4f56-9c5f-97b85f6c2a33" Name="Contacts" No="4" Version="[11.0.0]" SaverTime="0" UseScreenSaver="0" UseTouchDisable="0" TouchTime="0" BackgroundScreen="561100d7-339a-4510-95bf-1b945f2ad13d">
-  <Checksum Value="2136570028" />
+  <Checksum Value="3014047142" />
   <CImage Guid="6b1df6bc-5a6c-432e-a215-87cd4a195b1f" LockedPosition="0" ControlSet="54f050df-3f4c-4f56-9c5f-97b85f6c2a33" Name="" Anchor="5" IsDynamic="0" GesturesEnabled="0" X_PropType="0" X_Value="80" Y_PropType="0" Y_Value="150" Width_PropType="0" Width_Value="141" Height_PropType="0" Height_Value="136">
     <State Guid="ba467e54-b2bc-4397-801f-680256cb36d8" Name="Image" Version="[1.1.0]">
       <ColorDecorator Guid="167ac556-c715-46ea-b976-ae8d23c0de6e" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
@@ -41,10 +41,5 @@
       <IconImageDecorator Guid="8227fe60-75c9-4b94-ad26-324a4e2ae70c" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="a7ca386f-cd7e-477f-a852-c3fdc36cb395" TriggerData_PropType="1" Margins="[5px, 5px, 5px, 5px]" />
     </State>
   </MenuButton>
-  <ControlUserControl Guid="d4c32ec8-e413-4f87-9d04-27dfdd242e3c" LockedPosition="0" ControlSet="54f050df-3f4c-4f56-9c5f-97b85f6c2a33" Name="" Anchor="5" BackColor="[0 255 255 255]" ResizeMode="0" AlignmentForUniformStretch="1" X_PropType="0" X_Value="706" Y_PropType="0" Y_Value="0" Width_PropType="0" Width_Value="94" Height_PropType="0" Height_Value="48">
-    <SubScreenEntry Guid="b093de9e-e1ee-48cf-9fe9-6e4c9a6dde53" SubScreen="3627ec8c-eb82-4f2c-8032-5f1705e61196" Name="">
-      <SSAC Guid="03f98af0-43e6-409c-8035-712cba3718df" />
-    </SubScreenEntry>
-  </ControlUserControl>
   <ControlSet Guid="54f050df-3f4c-4f56-9c5f-97b85f6c2a33" Name="ControlSet" />
 </StandardScreen>

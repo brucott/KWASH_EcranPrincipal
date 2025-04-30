@@ -1,5 +1,5 @@
 <StandardScreen Guid="346a85be-e345-4ddc-b927-55223035aadb" Res="[800 480]" ScreenColor="[255 192 192 192]" ActiveSet="56862726-3553-4810-be75-fbdcd5154ea5" Name="alarms" No="2" Version="[11.0.0]" SaverTime="0" UseScreenSaver="0" UseTouchDisable="0" TouchTime="0" BackgroundScreen="561100d7-339a-4510-95bf-1b945f2ad13d">
-  <Checksum Value="1701872627" />
+  <Checksum Value="2821762494" />
   <Text Guid="42291257-aae5-4f18-a1d0-2c7adb470df8" LockedPosition="0" ControlSet="56862726-3553-4810-be75-fbdcd5154ea5" Name="" Anchor="5" X_PropType="0" X_Value="305" Y_PropType="0" Y_Value="8" Width_PropType="0" Width_Value="188" Height_PropType="0" Height_Value="32">
     <State Guid="28a071e3-c662-4977-bf5e-2d0d1b706006" Name="Text" Version="[1.1.0]">
       <ColorDecorator Guid="5c88bed1-df57-4e81-be9c-ca976d4cb344" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
@@ -175,20 +175,5 @@
       <TextDecorator Guid="404ff82f-aa68-4f43-977e-17cb54ffb095" ID="1" Font="[0,10,0]" Color="[255 255 255 255]" Blink="0" AlignH="1" AlignV="1" Rotation="0" WordBreak="1" MainData_PropType="0" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
     </State>
   </Button>
-  <MenuButton Guid="7e117d9a-424b-4d1d-bed2-3044481f28bd" LockedPosition="0" ControlSet="56862726-3553-4810-be75-fbdcd5154ea5" Name="" Anchor="5" Menu="407ead4f-abd0-430f-82be-b397d3cfd94c" Click="0" FrameStyle="2" Alignment="0" Behavior="1" Dim="1" X_PropType="0" X_Value="0" Y_PropType="0" Y_Value="0" Width_PropType="0" Width_Value="55" Height_PropType="0" Height_Value="48">
-    <State Guid="dd1384a7-fb2c-4699-88b2-97bb2ad9a10a" Name="Active" Version="[1.1.0]">
-      <ColorDecorator Guid="b056467d-61a8-4335-be27-89189816643c" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <IconImageDecorator Guid="4110e419-fcc5-453b-a2b3-c86ab0620b7e" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="a7ca386f-cd7e-477f-a852-c3fdc36cb395" TriggerData_PropType="1" Margins="[5px, 5px, 5px, 5px]" />
-    </State>
-    <State Guid="b4f6a187-2956-4538-93b4-09af83b74813" Name="Inactive" Version="[1.1.0]">
-      <ColorDecorator Guid="1a39a554-f5f1-4d6b-b93a-8c6fec89c83a" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <IconImageDecorator Guid="17da165c-fce6-4e12-87f5-51a90e1e1c7e" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="a7ca386f-cd7e-477f-a852-c3fdc36cb395" TriggerData_PropType="1" Margins="[5px, 5px, 5px, 5px]" />
-    </State>
-  </MenuButton>
-  <ControlUserControl Guid="f1acfc2f-9b97-425b-94ef-4d4b65b94732" LockedPosition="0" ControlSet="56862726-3553-4810-be75-fbdcd5154ea5" Name="" Anchor="5" BackColor="[0 255 255 255]" ResizeMode="0" AlignmentForUniformStretch="1" X_PropType="0" X_Value="706" Y_PropType="0" Y_Value="0" Width_PropType="0" Width_Value="94" Height_PropType="0" Height_Value="48">
-    <SubScreenEntry Guid="c1420503-716f-4692-b623-e55aa3db05d1" SubScreen="3627ec8c-eb82-4f2c-8032-5f1705e61196" Name="">
-      <SSAC Guid="785934c4-71f6-47d2-8a74-5e5e0c717662" />
-    </SubScreenEntry>
-  </ControlUserControl>
   <ControlSet Guid="56862726-3553-4810-be75-fbdcd5154ea5" Name="ControlSet" />
 </StandardScreen>

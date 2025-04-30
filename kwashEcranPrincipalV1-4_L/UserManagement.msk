@@ -1,5 +1,5 @@
 <StandardScreen Guid="f2acbc91-c72a-47ef-82b0-a29cddc18aac" Res="[800 480]" ScreenColor="[255 192 192 192]" ActiveSet="ad0a05c2-1d12-4aa1-8c3d-36aa83d01424" Name="UserManagement" No="11" Version="[11.0.0]" SaverTime="0" UseScreenSaver="0" UseTouchDisable="0" TouchTime="0" BackgroundScreen="561100d7-339a-4510-95bf-1b945f2ad13d">
-  <Checksum Value="2648803856" />
+  <Checksum Value="3649060521" />
   <MenuButton Guid="156ffe1d-12ce-4de6-ae21-2eff4029ac96" LockedPosition="0" ControlSet="ad0a05c2-1d12-4aa1-8c3d-36aa83d01424" Name="" Anchor="5" Menu="407ead4f-abd0-430f-82be-b397d3cfd94c" Click="0" FrameStyle="2" Alignment="0" Behavior="1" Dim="1" X_PropType="0" X_Value="0" Y_PropType="0" Y_Value="0" Width_PropType="0" Width_Value="55" Height_PropType="0" Height_Value="48">
     <State Guid="c77d06a4-2917-405b-a555-b67574bcec30" Name="Active" Version="[1.1.0]">
       <ColorDecorator Guid="ba4bb06e-b4bd-4fa1-8f8f-38109d86ebd0" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
@@ -10,11 +10,6 @@
       <IconImageDecorator Guid="6d3eaee3-b36d-43c2-a198-1a5534bc8a5a" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="a7ca386f-cd7e-477f-a852-c3fdc36cb395" TriggerData_PropType="1" Margins="[5px, 5px, 5px, 5px]" />
     </State>
   </MenuButton>
-  <ControlUserControl Guid="699efc43-a18d-4465-8fdf-42803951b221" LockedPosition="0" ControlSet="ad0a05c2-1d12-4aa1-8c3d-36aa83d01424" Name="" Anchor="5" BackColor="[0 255 255 255]" ResizeMode="0" AlignmentForUniformStretch="1" X_PropType="0" X_Value="706" Y_PropType="0" Y_Value="0" Width_PropType="0" Width_Value="94" Height_PropType="0" Height_Value="48">
-    <SubScreenEntry Guid="490fe853-04b3-4740-a720-11a8fc0f578a" SubScreen="3627ec8c-eb82-4f2c-8032-5f1705e61196" Name="">
-      <SSAC Guid="0e8d04c4-8b39-4836-8a6a-408177d7f597" />
-    </SubScreenEntry>
-  </ControlUserControl>
   <Text Guid="c809c2b9-d01d-4b9d-8d89-5937d59e37ea" LockedPosition="0" ControlSet="ad0a05c2-1d12-4aa1-8c3d-36aa83d01424" Name="" Anchor="5" X_PropType="0" X_Value="305" Y_PropType="0" Y_Value="8" Width_PropType="0" Width_Value="188" Height_PropType="0" Height_Value="32">
     <State Guid="afced875-c0d2-48ee-9b90-3f9f19a5a417" Name="Text" Version="[1.1.0]">
       <ColorDecorator Guid="f57b643f-f4c4-4928-9616-99394d8ab24e" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
