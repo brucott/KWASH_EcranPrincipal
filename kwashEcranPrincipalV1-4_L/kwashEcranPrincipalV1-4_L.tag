@@ -1,5 +1,5 @@
 <TagManager Guid="0e7c4593-09fd-4f39-a2f2-1cf19265b157">
-  <Checksum Value="2138145832" />
+  <Checksum Value="2500547373" />
   <CommTags>
     <CommTagsDict CommKey="0">
       <TagContainer Guid="deef41da-5d6d-4788-8ccc-4a70021adac1" Name="0. Modbus TCP easyE4">
@@ -254,33 +254,6 @@
             <LimitSettingIntegral Guid="8e893493-924d-409c-bf77-31e528c3a577" Type="0" Id="3" Value="1" />
           </LimitBit>
           <TagAddress Guid="c602fe45-9a7b-466b-b329-8c349a3102a3" IsActive="1" Syntax="MI%d" Param1="25" Param2="" Param3="" Param4="" Param5="" UseStdName="1" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
-        </BitTag>
-        <BitTag Guid="ee5d56b9-4773-4a22-ab30-354ba560b134" Name="I26" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0">
-          <LimitBit Guid="a220ad68-22d7-49a9-a1a5-ad0215f7107a" OpenLimit="1" Signed="1" PresetVal="0">
-            <LimitSettingIntegral Guid="b14e792c-a470-4785-be59-7f08b9c2d0d2" Type="0" Id="0" Value="0" />
-            <LimitSettingIntegral Guid="a9807459-05d0-4db8-9729-991070ef6755" Type="0" Id="1" Value="0" />
-            <LimitSettingIntegral Guid="92353d1b-f02f-4c5b-9a6f-8dbad8620499" Type="0" Id="2" Value="1" />
-            <LimitSettingIntegral Guid="df5b114f-75d0-4866-96b2-8e14e0d2a2e3" Type="0" Id="3" Value="1" />
-          </LimitBit>
-          <TagAddress Guid="e0da8b25-dc70-4041-8adf-476cee33672c" IsActive="1" Syntax="MI%d" Param1="26" Param2="" Param3="" Param4="" Param5="" UseStdName="1" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
-        </BitTag>
-        <BitTag Guid="09f9dd17-0b0b-4e0a-aef6-0337e210bf8d" Name="I27" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0">
-          <LimitBit Guid="2bec6cc4-2c15-4764-900f-120a7a9f7c0f" OpenLimit="1" Signed="1" PresetVal="0">
-            <LimitSettingIntegral Guid="42ac2d41-6a78-49ca-9a93-71bfa1fb6904" Type="0" Id="0" Value="0" />
-            <LimitSettingIntegral Guid="660546f5-ecf8-40a5-8026-e7945fd2abb3" Type="0" Id="1" Value="0" />
-            <LimitSettingIntegral Guid="7ae43390-63fc-41c0-98e3-07eb33cf3b38" Type="0" Id="2" Value="1" />
-            <LimitSettingIntegral Guid="3b2cea34-62df-4676-b810-61faaf28b665" Type="0" Id="3" Value="1" />
-          </LimitBit>
-          <TagAddress Guid="50c7e56b-b382-4276-96da-83bb463d1c5b" IsActive="1" Syntax="MI%d" Param1="27" Param2="" Param3="" Param4="" Param5="" UseStdName="1" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
-        </BitTag>
-        <BitTag Guid="fc2c5a10-24e1-44a0-97dc-37ba8ba82b1a" Name="I28" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0">
-          <LimitBit Guid="800bee6a-ac74-4e04-b43e-42f9bcfc23b8" OpenLimit="1" Signed="1" PresetVal="0">
-            <LimitSettingIntegral Guid="8a1cbaf9-2740-4a77-ae24-063d8fdc0e6b" Type="0" Id="0" Value="0" />
-            <LimitSettingIntegral Guid="ba1ee4f6-10c6-499d-9116-9ce5bff7b874" Type="0" Id="1" Value="0" />
-            <LimitSettingIntegral Guid="00b86172-6034-48f9-8771-ab93979c6e03" Type="0" Id="2" Value="1" />
-            <LimitSettingIntegral Guid="0bb6e7ea-b402-4f76-88fe-92c7d35ea1f3" Type="0" Id="3" Value="1" />
-          </LimitBit>
-          <TagAddress Guid="07ef085b-0c35-4bb2-97b0-68f42a3d3a72" IsActive="1" Syntax="MI%d" Param1="28" Param2="" Param3="" Param4="" Param5="" UseStdName="1" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
         </BitTag>
         <BitTag Guid="08500543-879d-40aa-bf1d-26c9a3b91896" Name="I29" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0">
           <LimitBit Guid="45865f52-958c-492e-9e39-09b4a6d23d9c" OpenLimit="1" Signed="1" PresetVal="0">
@@ -575,6 +548,33 @@
           </LimitDWord>
           <TagAddress Guid="0507315e-4564-4d92-a244-451aeb65cc8c" IsActive="1" Syntax="RI%d" Param1="6009" Param2="" Param3="" Param4="" Param5="" UseStdName="0" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
         </DWordTag>
+        <ErrorTag Guid="146f7067-e16c-423e-8ffe-acb3e9227df5" Name="I26" DataType="5" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0">
+          <LimitBit Guid="a8f320d3-7f79-4129-aaa8-ff1a824e1f85" OpenLimit="1" Signed="1" PresetVal="0">
+            <LimitSettingIntegral Guid="1c14fe96-f3ec-474d-99c3-d89ec3795c03" Type="0" Id="0" Value="0" />
+            <LimitSettingIntegral Guid="06833d58-884e-4182-962a-3ff171915d8a" Type="0" Id="1" Value="0" />
+            <LimitSettingIntegral Guid="157b4dc7-ef80-4c05-aa48-678ae4a08e8d" Type="0" Id="2" Value="1" />
+            <LimitSettingIntegral Guid="ac61abce-ca50-4583-bc22-8f2c217573da" Type="0" Id="3" Value="1" />
+          </LimitBit>
+          <TagAddress Guid="fccaf1a6-a1b5-4a0f-bd33-d1d4392ce46c" IsActive="1" Syntax="MI%d" Param1="26" Param2="" Param3="" Param4="" Param5="" UseStdName="0" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
+        </ErrorTag>
+        <ErrorTag Guid="5ae4ae0f-c186-4dfe-bd61-10f3473a5f85" Name="I27" DataType="5" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0">
+          <LimitBit Guid="73ec4be4-8a53-4817-a13e-d543883b76d0" OpenLimit="1" Signed="1" PresetVal="0">
+            <LimitSettingIntegral Guid="3c53e54f-fa04-41ca-85d5-dde7912a1fe9" Type="0" Id="0" Value="0" />
+            <LimitSettingIntegral Guid="5a540d34-353c-4f9d-88cf-8440fde5fe3d" Type="0" Id="1" Value="0" />
+            <LimitSettingIntegral Guid="7f6b2e5d-b36d-48e7-b36d-f176f7f97562" Type="0" Id="2" Value="1" />
+            <LimitSettingIntegral Guid="42a947ea-85ed-4d63-9b00-489105dd8d05" Type="0" Id="3" Value="1" />
+          </LimitBit>
+          <TagAddress Guid="e6c6476d-20ca-4539-826d-21e6b4a7d519" IsActive="1" Syntax="MI%d" Param1="27" Param2="" Param3="" Param4="" Param5="" UseStdName="0" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
+        </ErrorTag>
+        <ErrorTag Guid="38a54277-a782-46df-88ca-284800ebe1b8" Name="I28" DataType="5" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0">
+          <LimitBit Guid="e7eb47a3-07ad-408e-a38f-23d56da6894e" OpenLimit="1" Signed="1" PresetVal="0">
+            <LimitSettingIntegral Guid="e497ee49-6833-4c24-b3cd-197d5cc325c5" Type="0" Id="0" Value="0" />
+            <LimitSettingIntegral Guid="63816c80-2543-4321-a1d5-e962073f8af6" Type="0" Id="1" Value="0" />
+            <LimitSettingIntegral Guid="96360e25-f95a-4fb0-98b2-a912f8f17caf" Type="0" Id="2" Value="1" />
+            <LimitSettingIntegral Guid="4328ebd6-851c-4afd-b072-aa5bb620e7ae" Type="0" Id="3" Value="1" />
+          </LimitBit>
+          <TagAddress Guid="cbd11a4b-f1b1-434a-87a2-a5ac952e6970" IsActive="1" Syntax="MI%d" Param1="28" Param2="" Param3="" Param4="" Param5="" UseStdName="0" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
+        </ErrorTag>
       </TagContainer>
     </CommTagsDict>
   </CommTags>
