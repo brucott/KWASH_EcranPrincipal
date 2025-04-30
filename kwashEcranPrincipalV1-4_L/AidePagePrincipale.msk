@@ -1,0 +1,4 @@
+<HelpScreen Guid="e2411bbc-c86c-4254-b7c1-c34186fc468f" Res="[800 480]" ScreenColor="[255 192 192 192]" ActiveSet="b4930a21-449a-4a57-b819-a160c3f234c7" Name="AidePagePrincipale" No="12" Version="[11.0.0]">
+  <Checksum Value="3120298156" />
+  <ControlSet Guid="b4930a21-449a-4a57-b819-a160c3f234c7" Name="ControlSet" />
+</HelpScreen>

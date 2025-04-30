@@ -13,8 +13,19 @@
     </FtpConnection>
   </FtpConnections>
   <Folders />
-  <WebApiConnections />
-  <LastUsedTarget>7b0c014b-77c3-4e44-918a-ac5308e14873</LastUsedTarget>
+  <WebApiConnections>
+    <WebApiConnection>
+      <Guid>051efe55-416b-4f53-89be-4a24a4c4afd0</Guid>
+      <Name>New Web API connection</Name>
+      <Host>192.168.0.43</Host>
+      <Username>admin</Username>
+      <Port>8375</Port>
+      <Timeout>240</Timeout>
+      <DestinationFolder />
+      <TrustServerCertificate>false</TrustServerCertificate>
+    </WebApiConnection>
+  </WebApiConnections>
+  <LastUsedTarget>051efe55-416b-4f53-89be-4a24a4c4afd0</LastUsedTarget>
   <KeepAutoexec>false</KeepAutoexec>
   <DownloadSourceAsZip>false</DownloadSourceAsZip>
   <PasswordProtection>false</PasswordProtection>

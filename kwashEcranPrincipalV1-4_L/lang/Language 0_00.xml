@@ -108,6 +108,13 @@
 		<standard Guid="17f98a41-e182-4c83-be14-205c2fe870ca" textID="104"><![CDATA[Utilisateur :]]></standard>
 		<standard Guid="105ce77c-c844-4700-8a9a-7e29b2967a89" textID="105"><![CDATA[Mot de passe :]]></standard>
 		<standard Guid="24b0b032-558a-4ca5-b357-a843c48fddde" textID="106"><![CDATA[Déconnexion]]></standard>
+		<standard Guid="0d5e15e3-6d3d-4649-87c6-308523840b1f" textID="107"><![CDATA[Compteur ??? :]]></standard>
+		<standard Guid="4c387672-6d5c-40cd-b2af-9a9d1438ea3e" textID="108"><![CDATA[Il faudra me dire ce que tu veux sur cette page]]></standard>
+		<standard Guid="53343cdc-46ab-45b4-9d83-9d4b5b231431" textID="109"><![CDATA[Programme]]></standard>
+		<standard Guid="9215ce60-00f4-42c9-a117-3eaaa42a3a9d" textID="110"><![CDATA[Auto/Manu]]></standard>
+		<standard Guid="78c63af8-dfa5-4641-a797-9ac81ad48534" textID="111"><![CDATA[auto]]></standard>
+		<standard Guid="c73031b8-d81f-430e-b1ed-2ee0288f5ed4" textID="112"><![CDATA[Page]]></standard>
+		<standard Guid="29b2dcaf-4f02-4a1c-ae64-ed2421f6d5fd" textID="113"><![CDATA[Programme en cours]]></standard>
 		<error Guid="64a2c438-7654-47a4-b52e-94adb9d67aa8" textID="0"><![CDATA[Lavage jantes]]></error>
 		<error Guid="0425fbb3-bcac-4536-9e28-2052318543bc" textID="1"><![CDATA[Prélavage]]></error>
 		<error Guid="73021637-f83f-400e-a723-c6751f50b7f0" textID="2"><![CDATA[Canon à mousse]]></error>
