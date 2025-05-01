@@ -1,17 +1,6 @@
-if (#.simulAlarmes[0] = TRUE) 
-	#.Alarmes[0] := TRUE;
-else
-	#.Alarmes[0] := FALSE;
-endif
 
-if (#.simulAlarmes[1] = TRUE) 
-	#.Alarmes[1] := TRUE;
-else
-	#.Alarmes[1] := FALSE;
-endif
+#.Alarmes[0] := 0.I26;
 
-if (#.simulAlarmes[2] = TRUE) 
-	#.Alarmes[2] := TRUE;
-else
-	#.Alarmes[2] := FALSE;
-endif
+#.Alarmes[1] := 0.I27;
+
+#.Alarmes[2] := 0.I28;
