@@ -116,6 +116,8 @@
 		<standard Guid="c73031b8-d81f-430e-b1ed-2ee0288f5ed4" textID="112"><![CDATA[Page]]></standard>
 		<standard Guid="29b2dcaf-4f02-4a1c-ae64-ed2421f6d5fd" textID="113"><![CDATA[Programme en cours]]></standard>
 		<standard Guid="76ba1dc3-c85e-4d6b-9b42-812e11937ddb" textID="114"><![CDATA[Stop]]></standard>
+		<standard Guid="317e0beb-db11-401c-843b-1410e2fe1e12" textID="115"><![CDATA[Mode manuel]]></standard>
+		<standard Guid="3029b1e6-a409-40a2-927e-001683935632" textID="116"><![CDATA[Piste en stop]]></standard>
 		<error Guid="64a2c438-7654-47a4-b52e-94adb9d67aa8" textID="0"><![CDATA[Lavage jantes]]></error>
 		<error Guid="0425fbb3-bcac-4536-9e28-2052318543bc" textID="1"><![CDATA[Prélavage]]></error>
 		<error Guid="73021637-f83f-400e-a723-c6751f50b7f0" textID="2"><![CDATA[Canon à mousse]]></error>
